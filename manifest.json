@@ -1,0 +1,11 @@
+{
+  "manifest_version": 3,
+  "name": "Copy All Tabs",
+  "version": "1.0.0",
+  "description": "Copy every tab in the current window as a plain URL list.",
+  "action": {
+    "default_title": "Copy All Tabs",
+    "default_popup": "popup.html"
+  },
+  "permissions": [ "tabs" ]
+}
